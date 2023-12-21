@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @sha1bigint
+- 👀 I’m interested in crypto and C#
